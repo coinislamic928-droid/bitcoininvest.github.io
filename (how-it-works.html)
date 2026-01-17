@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How It Works</title>
+</head>
+<body>
+  <h1>How It Works</h1>
+
+  <p>Investors deposit Bitcoin directly to a secure wallet address provided on our Deposit page.  
+  Each deposit is assigned a unique transaction ID and can be verified on the blockchain.</p>
+
+  <p>All investments are voluntary. Please ensure you understand the risks before making a deposit.</p>
+
+  <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
