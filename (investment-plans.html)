@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Investment Plans</title>
+</head>
+<body>
+  <h1>Investment Plans</h1>
+
+  <p>Choose the amount you wish to deposit in Bitcoin. Deposits can be any amount you are comfortable with.</p>
+
+  <p>⚠️ Important: There are no guaranteed profits. All cryptocurrency investments carry risk, including loss of capital.</p>
+
+  <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
