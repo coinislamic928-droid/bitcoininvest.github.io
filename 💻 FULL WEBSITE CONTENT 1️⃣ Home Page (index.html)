@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>.      b
+<head>
+  <title>Bitcoin Investment Platform</title>
+</head>
+<body>
+  <h1>Bitcoin Investment Platform</h1>
+
+  <h2>How It Works</h2>
+  <p>Investors deposit Bitcoin directly through our secure payment system. All transactions are verifiable on the blockchain.</p>
+
+  <h2>Deposit Bitcoin</h2>
+  <!-- BTC payment button goes here -->
+
+  <h2>Risk Disclaimer</h2>
+  <p>Cryptocurrency trading involves risk. No profits are guaranteed.</p>
+
+  <h2>Contact</h2>
+  <p>Email: your@email.com</p>
+</body>
+</html>
